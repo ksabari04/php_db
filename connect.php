@@ -61,7 +61,7 @@
     // Enable detailed MySQLi error reporting
     mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 
-    $servername = "mysql"; // Replace with your database server name
+    $servername = "localhost"; // Replace with your database server name
     $username = "root"; // Replace with your database username
     $password = "UserRoot!"; // Replace with your database password
     $dbname = "mydb"; // Replace with your database name
